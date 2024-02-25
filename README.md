@@ -9,8 +9,8 @@
 
 ![Jokes Card](https://readme-jokes.vercel.app/api)
 
-<!--[![codewars](https://www.codewars.com/users/alexeev/badges/large)](https://www.codewars.com/users/alexeev)
-[![KnlnKS's LeetCode stats](https://leetcode-stats-six.vercel.app/api?username=KnlnKS&theme=dark)](https://github.com/KnlnKS/leetcode-stats)
+[![codewars](https://www.codewars.com/users/alexeev-engineer/badges/large)](https://www.codewars.com/users/alexeev-engineer)
+[![KnlnKS's LeetCode stats](https://leetcode-stats-six.vercel.app/api?username=alexeev-engineerS&theme=dark)](https://github.com/KnlnKS/leetcode-stats)
 -->
 
 <h1> 
@@ -33,8 +33,6 @@
 - 📫 Электронная почта: bro.alexeev@inbox.ru
 - 🤔 Я хочу изучить ассемблер
 - :zap: В мое свободное время я люблю писать статьи на хабр
-
-[![Ashutosh's github activity graph](https://activity-graph.herokuapp.com/graph?username=alexeev-engineer)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 ---
 
