@@ -1,7 +1,17 @@
-<div id="header" align="center">
-  <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
-</div>
+
 <img src="https://komarev.com/ghpvc/?username=alexeev-engineer&style=flat-square&color=blue" alt=""/>
+
+<h1 align="center">Привет, я <a href="https://daniilshat.ru/" target="_blank">Алексеев</a> 
+<h3 align="center">Студент Computer Science, разработчик, дизайнер и писатель IT статей из России 🇷🇺</h3>
+<h3 align="right">А также часть команды Alt GNOME Development Team</h3>
+	
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=Developer+Designer+Writer)](https://git.io/typing-svg)
+
+![Jokes Card](https://readme-jokes.vercel.app/api)
+
+<!--[![codewars](https://www.codewars.com/users/alexeev/badges/large)](https://www.codewars.com/users/alexeev)
+[![KnlnKS's LeetCode stats](https://leetcode-stats-six.vercel.app/api?username=KnlnKS&theme=dark)](https://github.com/KnlnKS/leetcode-stats)
+-->
 
 <h1> 
 	Привет, друг
@@ -12,6 +22,8 @@
   <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/>
 </div>
 
+[![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)](https://github.com/piyushsuthar/github-readme-quotes)
+
 ---
 
 ## Обо мне 😄
@@ -21,6 +33,8 @@
 - 📫 Электронная почта: bro.alexeev@inbox.ru
 - 🤔 Я хочу изучить ассемблер
 - :zap: В мое свободное время я люблю писать статьи на хабр
+
+[![Ashutosh's github activity graph](https://activity-graph.herokuapp.com/graph?username=alexeev-engineer)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 ---
 
@@ -34,18 +48,29 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/linux/linux-original.svg" title="Linux" **alt="Linux" width="40" height="40"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/go/go-original.svg" title="GoLang" **alt="GoLang" width="40" height="40"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/haskell/haskell-original.svg" title="Haskell" **alt="Haskell" width="40" height="40"/>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original.svg" title="Java" **alt="Java" width="40" height="40"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" title="Python" **alt="Python" width="40" height="40"/>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/rust/rust-plain.svg" title="Rust" **alt="Rust" width="40" height="40"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/c/c-original.svg" title="C" **alt="C" width="40" height="40"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-original.svg" title="C++" **alt="C++" width="40" height="40"/>
 </div>
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=alexeev-engineer&theme=github_dark)](https://github.com/anuraghazra/github-readme-stats)
 
 ---
 
 ### :fire: Моя статистика :
 
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=alexeev-engineer&repo=cryptobot-api)](https://github.com/anuraghazra/github-readme-stats)
+
+![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=alexeev-engineer)
+
+![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=alexeev-engineer)
+
+![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=alexeev-engineer)
+
+![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=alexeev-engineer)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=alexeev-engineer&hide=css,html)
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=alexeev-engineer)](https://github.com/anuraghazra/github-readme-stats)
+
 [![trophy](https://github-profile-trophy.vercel.app/?username=alexeev-engineer)](https://github.com/ryo-ma/github-profile-trophy)
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=alexeev-engineer&theme=github_dark&border_radius=5&locale=ru&mode=weekly)](https://git.io/streak-stats)
+
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=alexeev-engineer&locale=ru&mode=weekly)](https://git.io/streak-stats)
