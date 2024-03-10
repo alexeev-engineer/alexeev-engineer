@@ -1,26 +1,19 @@
 
 <img src="https://komarev.com/ghpvc/?username=alexeev-engineer&style=flat-square&color=blue" alt=""/>
 
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=Developer+Designer+Writer)](https://git.io/typing-svg)
+
 <h1 align="center">Привет, я <a href="https://daniilshat.ru/" target="_blank">Алексеев</a> 
 <h3 align="center">Студент Computer Science, разработчик, дизайнер и писатель IT-статей из России 🇷🇺</h3>
 <h3 align="right">А также часть команды Alt GNOME Development Team</h3>
-	
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=Developer+Designer+Writer)](https://git.io/typing-svg)
 
 [![codewars](https://www.codewars.com/users/alexeev-engineer/badges/large)](https://www.codewars.com/users/alexeev-engineer)
-
-<h1> 
-	Привет, друг
-	<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
-</h1>
 
 <div align="center">
   <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/>
 </div>
 
-[![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)](https://github.com/piyushsuthar/github-readme-quotes) ![Jokes Card](https://readme-jokes.vercel.app/api)
-
----
+[![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)](https://github.com/piyushsuthar/github-readme-quotes)
 
 ## Обо мне 😄
 
@@ -30,9 +23,14 @@
 - 🤔 Я хочу изучить ассемблер
 - :zap: В мое свободное время я люблю писать статьи на хабр
 
+[![trophy](https://github-profile-trophy.vercel.app/?username=alexeev-engineer)](https://github.com/ryo-ma/github-profile-trophy)
+
 ---
 
 ### :hammer_and_wrench: Инструменты и языки :
+
+![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=alexeev-engineer)
+![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=alexeev-engineer)
 
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg"  title="CSS3" alt="CSS" width="40" height="40"/>&nbsp;
@@ -47,6 +45,7 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-original.svg" title="C++" **alt="C++" width="40" height="40"/>
 </div>
 
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=alexeev-engineer&hide=css,html)
 ---
 
 ### :fire: Моя статистика :
@@ -59,10 +58,6 @@
 ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=alexeev-engineer)
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=alexeev-engineer&locale=ru&mode=weekly)](https://git.io/streak-stats)
 
-![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=alexeev-engineer)
-![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=alexeev-engineer)
-
 ![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=alexeev-engineer)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=alexeev-engineer&hide=css,html)
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=alexeev-engineer)](https://github.com/ryo-ma/github-profile-trophy)
+
