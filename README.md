@@ -17,17 +17,17 @@
 
 ## Обо мне 😄
 
-- 🔭 Сейчас я работаю над созданием утилит для Linux
-- 🌱 Сейчас я изучаю C/C++, golang, и Linux
+- 🔭 Сейчас я работаю над анализом статистики и данных, ускорении кода, работа с сетевыми протоколами и трафиком
+- 🌱 Сейчас я изучаю C/C++, golang.
 - 📫 Электронная почта: bro.alexeev@inbox.ru
-- 🤔 Я хочу изучить ассемблер
-- :zap: В мое свободное время я люблю писать статьи на хабр
+- 🤔 Я хочу изучить Data Science
+- :zap: В мое свободное время я люблю писать статьи на хабре
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=alexeev-engineer)](https://github.com/ryo-ma/github-profile-trophy)
 
----
-
 ### :hammer_and_wrench: Инструменты и языки :
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=alexeev-engineer&hide=css,html)
 
 ![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=alexeev-engineer)
 ![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=alexeev-engineer)
@@ -45,9 +45,6 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-original.svg" title="C++" **alt="C++" width="40" height="40"/>
 </div>
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=alexeev-engineer&hide=css,html)
----
-
 ### :fire: Моя статистика :
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=alexeev-engineer&repo=aiocryptogram)](https://github.com/alexeev-engineer/aiocryptogram)
@@ -56,8 +53,7 @@
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=alexeev-engineer&repo=linutils)](https://github.com/alexeev-engineer/linutils)
 
 ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=alexeev-engineer)
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=alexeev-engineer&locale=ru&mode=weekly)](https://git.io/streak-stats)
 
-![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=alexeev-engineer)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=alexeev-engineer&locale=ru&mode=weekly)](https://git.io/streak-stats) ![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=alexeev-engineer)
 
 
