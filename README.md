@@ -51,22 +51,18 @@
 
 ### :fire: Моя статистика :
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=alexeev-engineer&repo=aiocryptogram)](https://github.com/anuraghazra/github-readme-stats)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=alexeev-engineer&repo=zennet)](https://github.com/anuraghazra/github-readme-stats)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=alexeev-engineer&repo=OpenDaSA)](https://github.com/anuraghazra/github-readme-stats)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=alexeev-engineer&repo=aiocryptogram)](https://github.com/alexeev-engineer/aiocryptogram)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=alexeev-engineer&repo=zennet)](https://github.com/alexeev-engineer/zennet)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=alexeev-engineer&repo=OpenDaSA)](https://github.com/alexeev-engineer/OpenDaSA)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=alexeev-engineer&repo=linutils)](https://github.com/alexeev-engineer/linutils)
 
 ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=alexeev-engineer)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=alexeev-engineer&locale=ru&mode=weekly)](https://git.io/streak-stats)
 
 ![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=alexeev-engineer)
-
 ![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=alexeev-engineer)
 
 ![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=alexeev-engineer)
-
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=alexeev-engineer&hide=css,html)
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=alexeev-engineer)](https://github.com/anuraghazra/github-readme-stats)
-
 [![trophy](https://github-profile-trophy.vercel.app/?username=alexeev-engineer)](https://github.com/ryo-ma/github-profile-trophy)
-
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=alexeev-engineer&locale=ru&mode=weekly)](https://git.io/streak-stats)
