@@ -51,7 +51,9 @@
 
 ### :fire: Моя статистика :
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=alexeev-engineer&repo=cryptobot-api)](https://github.com/anuraghazra/github-readme-stats)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=alexeev-engineer&repo=aiocryptogram)](https://github.com/anuraghazra/github-readme-stats)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=alexeev-engineer&repo=zennet)](https://github.com/anuraghazra/github-readme-stats)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=alexeev-engineer&repo=OpenDaSA)](https://github.com/anuraghazra/github-readme-stats)
 
 ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=alexeev-engineer)
 
