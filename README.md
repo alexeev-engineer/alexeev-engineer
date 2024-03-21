@@ -47,9 +47,8 @@
 
 ### :fire: Моя статистика :
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=alexeev-engineer&repo=aiocryptogram)](https://github.com/alexeev-engineer/aiocryptogram)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=alexeev-engineer&repo=zennet)](https://github.com/alexeev-engineer/zennet)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=alexeev-engineer&repo=OpenDaSA)](https://github.com/alexeev-engineer/OpenDaSA)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=alexeev-engineer&repo=zennet)](https://github.com/alexeev-engineer/aiocryptogram)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=alexeev-engineer&repo=SQLRMT)](https://github.com/alexeev-engineer/zennet)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=alexeev-engineer&repo=linutils)](https://github.com/alexeev-engineer/linutils)
 
 ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=alexeev-engineer)
