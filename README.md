@@ -3,8 +3,8 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=Developer+Designer+Writer)](https://git.io/typing-svg)
 
-<h1 align="center">Привет, я <a href="https://habr.com/ru/users/drargentum" target="_blank">Алексеев</a> 
-<h3 align="center">Студент Computer Science, разработчик, дизайнер и писатель IT-статей из России 🇷🇺</h3>
+<h1 align="center">Hi, i am <a href="https://t.me/alexeev_dev" target="_blank">Alexeev</a> 
+<h3 align="center">Computer science student, developer in C/C++, Go, Python and technical writer from Russia 🇷🇺</h3>
 <h3 align="right">А также часть команды Alt GNOME Development Team</h3>
 
 [![codewars](https://www.codewars.com/users/alexeev-engineer/badges/large)](https://www.codewars.com/users/alexeev-engineer)
@@ -15,17 +15,17 @@
 
 [![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)](https://github.com/piyushsuthar/github-readme-quotes)
 
-## Обо мне 😄
+## About me 😄
 
-- 🔭 Сейчас я работаю над анализом статистики и данных, ускорении кода, работа с сетевыми протоколами и трафиком
-- 🌱 Сейчас я изучаю C/C++, golang.
-- 📫 Электронная почта: bro.alexeev@inbox.ru
-- 🤔 Я хочу изучить Data Science
-- :zap: В мое свободное время я люблю писать статьи на хабре
+- 🔭 I am working on well-designed projects: SQLRMT, Core86 OS and IT Workshop Project
+- 🌱 I learning assembly, C/C++ and Go.
+- 📫 Email: bro.alexeev@inbox.ru
+- 🤔 I want to learn assembly and computer science
+- :zap: I am love write articles
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=alexeev-engineer)](https://github.com/ryo-ma/github-profile-trophy)
 
-### :hammer_and_wrench: Инструменты и языки :
+### :hammer_and_wrench: Tools and language :
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=alexeev-engineer&hide=css,html)
 
@@ -45,7 +45,7 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-original.svg" title="C++" **alt="C++" width="40" height="40"/>
 </div>
 
-### :fire: Моя статистика :
+### :fire: My statistics
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=alexeev-engineer&repo=zennet)](https://github.com/alexeev-engineer/aiocryptogram)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=alexeev-engineer&repo=SQLRMT)](https://github.com/alexeev-engineer/zennet)
@@ -54,5 +54,3 @@
 ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=alexeev-engineer)
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=alexeev-engineer&locale=ru&mode=weekly)](https://git.io/streak-stats) ![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=alexeev-engineer)
-
-
