@@ -3,7 +3,7 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=Developer+Designer+Writer)](https://git.io/typing-svg)
 
-<h1 align="center">Привет, я <a href="https://daniilshat.ru/" target="_blank">Алексеев</a> 
+<h1 align="center">Привет, я <a href="https://habr.com/ru/users/drargentum" target="_blank">Алексеев</a> 
 <h3 align="center">Студент Computer Science, разработчик, дизайнер и писатель IT-статей из России 🇷🇺</h3>
 <h3 align="right">А также часть команды Alt GNOME Development Team</h3>
 
