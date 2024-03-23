@@ -6,15 +6,13 @@
 
 <p align='center'><img src="https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=Developer+Designer+Writer"/></p>
 
-[![codewars](https://www.codewars.com/users/alexeev-engineer/badges/large)](https://www.codewars.com/users/alexeev-engineer)
-
 <div align="center">
   <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/>
 </div>
 
-[![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)](https://github.com/piyushsuthar/github-readme-quotes)
-
 ## About me 😄
+
+[![codewars](https://www.codewars.com/users/alexeev-engineer/badges/large)](https://www.codewars.com/users/alexeev-engineer)
 
 - 🔭 I am working on well-designed projects: SQLRMT, Core86 OS and IT Workshop Project
 - 🌱 I learning assembly, C/C++ and Go.
